@@ -50,3 +50,8 @@ https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
 # GUI (Tkinter) :
 
 https://www.youtube.com/watch?v=VMP1oQOxfM0
+
+# Open CV (Basics) :
+
+https://github.com/bhav09/OpenCV_template
+
