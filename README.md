@@ -21,6 +21,9 @@ Tutorial : https://www.youtube.com/watch?v=TgA4ObrowRg
 
 Tutorial : https://www.youtube.com/watch?v=sKiDjO_0dCQ
 
+# Operators:
+
+https://www.w3schools.com/python/python_operators.asp
 
 # Resources for Data structures :
 
