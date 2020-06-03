@@ -29,6 +29,12 @@ https://www.w3schools.com/python/python_operators.asp
 
 https://thomas-cokelaer.info/tutorials/python/data_structures.html#:~:text=The%20builtins%20data%20structures%20are,and%20tuples%20are%20like%20arrays.
 
+# OOP concepts:
+
+https://www.tutorialspoint.com/What-are-Python-OOP-Basics
+
+https://realpython.com/python3-object-oriented-programming/
+
 # GUI (Tkinter) :
 
 https://www.youtube.com/watch?v=VMP1oQOxfM0
