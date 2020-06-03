@@ -35,6 +35,10 @@ https://www.tutorialspoint.com/What-are-Python-OOP-Basics
 
 https://realpython.com/python3-object-oriented-programming/
 
+# Visualizations (Basic Graphs):
+
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+
 # GUI (Tkinter) :
 
 https://www.youtube.com/watch?v=VMP1oQOxfM0
