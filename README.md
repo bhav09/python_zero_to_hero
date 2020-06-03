@@ -4,6 +4,9 @@ This Repository is dedicated to give you briefings about python.
 
 The repo is enriched with code , theory and related resources.
 
+There's a lot to learn in python and mentioning everything in the code makes it a bit too long for anyone to comprehend.
+So have provided resources for the same.
+
 How to install Python ?
 
 #Windows:
