@@ -25,3 +25,4 @@ https://thomas-cokelaer.info/tutorials/python/data_structures.html#:~:text=The%2
 
 GUI (Tkinter) :
 
+https://www.youtube.com/watch?v=VMP1oQOxfM0
