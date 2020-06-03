@@ -25,6 +25,14 @@ Tutorial : https://www.youtube.com/watch?v=sKiDjO_0dCQ
 
 https://www.w3schools.com/python/python_operators.asp
 
+# Conditional Statements
+
+https://www.guru99.com/if-loop-python-conditional-structures.html#:~:text=Conditional%20Statement%20in%20Python%20perform,by%20IF%20statements%20in%20Python.
+
+# Loops 
+
+https://www.learnpython.org/en/Loops
+
 # Resources for Data structures :
 
 https://thomas-cokelaer.info/tutorials/python/data_structures.html#:~:text=The%20builtins%20data%20structures%20are,and%20tuples%20are%20like%20arrays.
