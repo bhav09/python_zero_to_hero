@@ -1,5 +1,5 @@
 #GUI template
-
+ 
 from tkinter import *
 root=Tk()
 root.title('Test Screen') #title
