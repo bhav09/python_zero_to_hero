@@ -40,3 +40,4 @@ print("New dictionary is:",car)
 #clears the dictionary
 clear=car.clear()
 print("Dictionary cleared:",clear)
+
