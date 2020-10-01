@@ -1,5 +1,5 @@
 # python_zero_to_hero
-
+If you want to start from basic, this is the perfect spot.
 This Repository is dedicated to give you briefings about python.
 
 The repo is enriched with code , theory and related resources.
