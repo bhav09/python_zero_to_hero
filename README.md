@@ -9,50 +9,51 @@ So have provided resources for the same.
 
 How to install Python ?
 
-#Windows:
+# Windows: 
+Watch<a href="https://www.youtube.com/watch?v=bnhQBUEpWlg"> Tutorial</a>
 
-Tutorial : https://www.youtube.com/watch?v=bnhQBUEpWlg
 
-#Mac:
 
-Tutorial : https://www.youtube.com/watch?v=TgA4ObrowRg
+# Mac: 
+Watch<a href="https://www.youtube.com/watch?v=TgA4ObrowRg"> Tutorial</a>
 
-#Ubuntu linux:
 
-Tutorial : https://www.youtube.com/watch?v=sKiDjO_0dCQ
+# Ubuntu linux: 
+Watch<a href="https://www.youtube.com/watch?v=sKiDjO_0dCQ"> Tutorial</a>
 
-# Operators:
 
-https://www.w3schools.com/python/python_operators.asp
+# Operators: 
+Watch<a href="https://www.w3schools.com/python/python_operators.asp"> Tutorial</a>
 
-# Conditional Statements
 
-https://www.guru99.com/if-loop-python-conditional-structures.html#:~:text=Conditional%20Statement%20in%20Python%20perform,by%20IF%20statements%20in%20Python.
+# Conditional Statements: 
+Watch<a href="https://www.guru99.com/if-loop-python-conditional-structures.html#:~:text=Conditional%20Statement%20in%20Python%20perform,by%20IF%20statements%20in%20Python"> Tutorial</a>
 
-# Loops 
 
-https://www.learnpython.org/en/Loops
+# Loops: 
+Watch<a href="https://www.learnpython.org/en/Loops"> Tutorial</a>
 
-# Resources for Data structures :
 
-https://thomas-cokelaer.info/tutorials/python/data_structures.html#:~:text=The%20builtins%20data%20structures%20are,and%20tuples%20are%20like%20arrays.
+# Resources for Data structures: 
+Watch <a href="https://thomas-cokelaer.info/tutorials/python/data_structures.html#:~:text=The%20builtins%20data%20structures%20are,and%20tuples%20are%20like%20arrays"> Tutorial</a>
 
-# OOP concepts:
 
-https://www.tutorialspoint.com/What-are-Python-OOP-Basics
+# OOP concepts: 
+Watch<a href="https://www.tutorialspoint.com/What-are-Python-OOP-Basics"> Tutorial1</a>, <a href="https://realpython.com/python3-object-oriented-programming/">Tutorial2</a>
 
-https://realpython.com/python3-object-oriented-programming/
+
 
 # Visualizations (Basic Graphs):
+Watch<a href="https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/"> Tutorial</a>
 
-https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
 
-# GUI (Tkinter) :
+# GUI (Tkinter):
+Watch<a href="https://www.youtube.com/watch?v=VMP1oQOxfM0"> Tutorial</a>
 
-https://www.youtube.com/watch?v=VMP1oQOxfM0
 
-# Open CV (Basics) :
+# Open CV (Basics):
+Watch<a href="https://github.com/bhav09/OpenCV_template"> Tutorial</a>
 
-https://github.com/bhav09/OpenCV_template
+
 
 
